@@ -1,0 +1,6 @@
+pillow
+pygame
+pandas
+asyncio
+edge_tts
+openpyxl
